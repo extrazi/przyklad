@@ -1,7 +1,7 @@
 _Polish description for potential GitHub users with a sample repository and the contents of the README.md file_ 
 
 ---
-1 O plikach README
+1. : O plikach README
 ---
 
 Możesz dodać plik README do swojego repozytorium, aby powiedzieć innym ludziom, dlaczego Twój projekt jest przydatny, co mogą zrobić z Twoim projektem i jak mogą go używać.
