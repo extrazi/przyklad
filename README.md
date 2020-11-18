@@ -8,9 +8,9 @@ Spis treści
 
 [Łącza do sekcji w plikach README i stronach obiektów blob ](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#section-links-in-readme-files-and-blob-pages) 
 [Względne łącza ścieżki do obrazów w plikach README ](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#relative-links-and-image-paths-in-readme-files) 
-Dalsze zagadnienia](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#further-reading)
+[Dalsze zagadnienia](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#further-reading) 
 
-Plik README, wraz z ( https://docs.github.com/en/free-pro-team@latest/articles/licensing-a-repository ) licencją na repozytorium , wytycznymi dotyczącymi wkładu i ( https://docs.github.com/en/free-pro-team@latest/articles/adding-a-code-of-conduct-to-your-project ) kodeksem postępowania, pomaga w komunikowaniu oczekiwań dotyczących wkładu do projektu i zarządzaniu nim. 
+Plik README, wraz z [licencją na repozytorium ]( https://docs.github.com/en/free-pro-team@latest/articles/licensing-a-repository )  , wytycznymi dotyczącymi wkładu i [kodeksem postępowania ]( https://docs.github.com/en/free-pro-team@latest/articles/adding-a-code-of-conduct-to-your-project ) , pomaga w komunikowaniu oczekiwań dotyczących wkładu do projektu i zarządzaniu nim. 
 
 README jest często pierwszym elementem, który goście zobaczą podczas odwiedzania Twojego repozytorium. 
 
@@ -30,13 +30,13 @@ Jeśli dodasz plik README do katalogu głównego repozytorium publicznego o taki
 
  [ilustracja - ](https://docs.github.com/assets/images/help/repository/username-repo-with-readme.png)
 
-== ( https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#section-links-in-readme-files-and-blob-pages ) Linki do sekcji w plikach README i stronach BLOB ==
+== [Linki do sekcji w plikach README i stronach BLOB ]( https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#section-links-in-readme-files-and-blob-pages )  ==
 
 Wiele projektów używa spisu treści na początku pliku README, aby skierować użytkowników do różnych sekcji pliku. Możesz utworzyć łącze bezpośrednio do sekcji w wyrenderowanym pliku, umieszczając wskaźnik myszy nad nagłówkiem sekcji, aby wyświetlić łącze:
 
  [ilustracja - ](https://docs.github.com/assets/images/help/repository/readme-links.png)
 
-== ( https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#relative-links-and-image-paths-in-readme-files ) Względne łącza i ścieżki obrazów w plikach README ==
+== [Względne łącza i ścieżki obrazów w plikach README ]( https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#relative-links-and-image-paths-in-readme-files )  ==
 
 Możesz zdefiniować linki względne i ścieżki obrazów w renderowanych plikach, aby ułatwić czytelnikom nawigację do innych plików w repozytorium. 
 Względne łącze to łącze względne w stosunku do bieżącego pliku. Na przykład, jeśli masz plik README w katalogu głównym repozytorium i masz inny plik w docs/CONTRIBUTING.md, względne łącze do CONTRIBUTING.md w pliku README może wyglądać tak: 
