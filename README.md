@@ -9,8 +9,8 @@ Możesz dodać plik README do swojego repozytorium, aby powiedzieć innym ludzio
 **Spis treści**
 
 
-[Łącza do sekcji w plikach README i stronach obiektów blob ](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#section-links-in-readme-files-and-blob-pages) 
-[Względne łącza ścieżki do obrazów w plikach README ](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#relative-links-and-image-paths-in-readme-files) 
+[Łącza do sekcji w plikach README i stronach obiektów blob ](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#section-links-in-readme-files-and-blob-pages) <br>
+[Względne łącza ścieżki do obrazów w plikach README ](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#relative-links-and-image-paths-in-readme-files) <br>
 [Dalsze zagadnienia](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#further-reading) 
 
 Plik README, wraz z [licencją na repozytorium ]( https://docs.github.com/en/free-pro-team@latest/articles/licensing-a-repository )  , wytycznymi dotyczącymi wkładu i [kodeksem postępowania ]( https://docs.github.com/en/free-pro-team@latest/articles/adding-a-code-of-conduct-to-your-project ) , pomaga w komunikowaniu oczekiwań dotyczących wkładu do projektu i zarządzaniu nim. 
