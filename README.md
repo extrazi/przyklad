@@ -25,7 +25,7 @@ Pliki README zwykle zawierają informacje na temat:
 * Gdzie użytkownicy mogą uzyskać pomoc dotyczącą projektu 
 * Kto zajmuje się projektem i wnosi wkład w projekt 
 
-Jeśli umieścisz plik README w katalogu głównym repozytorium, docs lub ukryty katalog .github, GitHub rozpozna i automatycznie wyświetli plik README odwiedzającym repozytorium.
+Jeśli umieścisz plik README w katalogu głównym repozytorium, ```docs``` lub ukryty katalog ```.github```, GitHub rozpozna i automatycznie wyświetli plik README odwiedzającym repozytorium.
 
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/repo-with-readme.png)
 
