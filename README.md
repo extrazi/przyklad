@@ -29,7 +29,7 @@ Jeśli umieścisz plik README w katalogu głównym repozytorium, ```docs``` lub 
 
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/repo-with-readme.png)
 
-Jeśli dodasz plik README do katalogu głównego repozytorium publicznego o takiej samej nazwie jak Twoja nazwa użytkownika, ten plik README automatycznie pojawi się na stronie Twojego profilu. Możesz edytować swój profil README za pomocą GitHub Flavored Markdown, aby utworzyć spersonalizowaną sekcję w swoim profilu.
+Jeśli dodasz plik README do katalogu głównego repozytorium publicznego o takiej samej nazwie co nazwa użytkownika, ten plik README automatycznie pojawi się na stronie profilu. Możesz edytować swój profil README z GitHub Markdown, aby utworzyć spersonalizowaną sekcję w swoim profilu. Aby uzyskać więcej informacji, zobacz "[Zarządzanie swoim profilem README](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)".
 
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/username-repo-with-readme.png)
 
