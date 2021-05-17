@@ -72,7 +72,7 @@ GitHub automatycznie przekształci Twoje względne łącze lub ścieżkę obrazu
 Względne linki są łatwiejsze dla użytkowników, którzy klonują Twoje repozytorium. Łącza bezwzględne mogą nie działać w klonach repozytorium - zalecamy używanie odnośników względnych do odwoływania się do innych plików w repozytorium.
 
 
-###Dalsze zagadnienia
+### Dalsze zagadnienia
 
 * ["Dodawanie pliku do repozytorium"](https://docs.github.com/en/free-pro-team@latest/articles/adding-a-file-to-a-repository) 
 * ["Dokonywanie czytelności plików README" ](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md) 18F
