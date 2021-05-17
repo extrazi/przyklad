@@ -55,7 +55,7 @@ Auto-generowany spis treści jest domyślnie włączony dla wszystkich plików M
 
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/readme-automatic-toc-setting.png)
 
-<a id="Linki do sekcji w plikach README i stronach BLOB"></a>
+<a id="Linki-do-sekcji-w-plikach-README-i-stronach-BLOB"></a>
 ### [Linki do sekcji w plikach README i stronach BLOB ]( https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#section-links-in-readme-files-and-blob-pages )  
 
 Wiele projektów używa spisu treści na początku pliku README, aby skierować użytkowników do różnych sekcji pliku. Możesz utworzyć łącze bezpośrednio do sekcji w wyrenderowanym pliku, umieszczając wskaźnik myszy nad nagłówkiem sekcji, aby wyświetlić łącze:
