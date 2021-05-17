@@ -12,7 +12,7 @@ Aby uzyskać więcej informacji na temat dostarczania wytycznych dotyczących pr
 
 **Spis treści**
 
-[Automatyczne-wygenerowane spis treści do plików README ]( https://github.com/extrazi/przyklad#Automatyczne-wygenerowane-spis-tresci-do-plikow-README )  
+[Automatycznie-wygenerowany spis treści do plików README ](https://github.com/extrazi/przyklad#Automatycznie-wygenerowany-spis-tresci-do-plikow-README)  
 [Łącza do sekcji w plikach README i stronach obiektów blob ](https://github.com/extrazi/przyklad#Linki_do_sekcji_w_plikach_README_i_stronach_BLOB )   
 [Względne łącza ścieżki do obrazów w plikach README ](https://github.com/extrazi/przyklad#Względne_łącza_i_ścieżki_obrazów_w_plikach_README)   
 [Dalsze zagadnienia](https://github.com/extrazi/przyklad#Dalsze-zagadnienia) 
@@ -37,7 +37,7 @@ Jeśli dodasz plik README do katalogu głównego repozytorium publicznego o taki
 
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/username-repo-with-readme.png)
 
-<a id="Automatyczne-wygenerowane spis tresci do plikow README"></a>
+<a id="Automatycznie-wygenerowany spis tresci do plikow README"></a>
 ### [Automatyczne-wygenerowane spis treści do plików README ]( https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes#auto-generated-table-of-contents-for-readme-files )
 
 W przypadku renderowanego widoku dowolnego pliku Markdown w repozytorium, w tym pliku README, GitHub automatycznie generuje spis treści na podstawie nagłówków sekcji. Możesz przeglądać spis treści dla pliku README, klikając ikonę :m  menu w lewym górnym rogu z renderowanej strony.
