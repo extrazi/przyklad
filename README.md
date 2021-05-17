@@ -15,7 +15,7 @@ Aby uzyskać więcej informacji na temat dostarczania wytycznych dotyczących pr
 [Automatyczne-wygenerowane spis treści do plików README ]( https://github.com/extrazi/przyklad#Automatyczne-wygenerowane_spis_treści_do_plików_README )  
 [Łącza do sekcji w plikach README i stronach obiektów blob ](https://github.com/extrazi/przyklad#Linki_do_sekcji_w_plikach_README_i_stronach_BLOB )   
 [Względne łącza ścieżki do obrazów w plikach README ](https://github.com/extrazi/przyklad#Względne_łącza_i_ścieżki_obrazów_w_plikach_README)   
-[Dalsze zagadnienia](https://github.com/extrazi/przyklad#Dalsze_zagadnienia) 
+[Dalsze zagadnienia](https://github.com/extrazi/przyklad#Dalsze zagadnienia) 
 
 Plik README, wraz z [licencją na repozytorium ]( https://docs.github.com/en/free-pro-team@latest/articles/licensing-a-repository )  , wytycznymi dotyczącymi wkładu i [kodeksem postępowania ]( https://docs.github.com/en/free-pro-team@latest/articles/adding-a-code-of-conduct-to-your-project ) , pomaga w komunikowaniu oczekiwań dotyczących wkładu do projektu i zarządzaniu nim. 
 
