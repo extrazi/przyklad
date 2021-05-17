@@ -12,7 +12,7 @@ Aby uzyskać więcej informacji na temat dostarczania wytycznych dotyczących pr
 
 **Spis treści**
 
-[Automatyczne-wygenerowane spis treści do plików README ]( https://github.com/extrazi/przyklad#Automatyczne-wygenerowane-spis-treści-do-plików-README )  
+[Automatyczne-wygenerowane spis treści do plików README ]( https://github.com/extrazi/przyklad#Automatyczne-wygenerowane-spis-tresci-do-plikow-README )  
 [Łącza do sekcji w plikach README i stronach obiektów blob ](https://github.com/extrazi/przyklad#Linki_do_sekcji_w_plikach_README_i_stronach_BLOB )   
 [Względne łącza ścieżki do obrazów w plikach README ](https://github.com/extrazi/przyklad#Względne_łącza_i_ścieżki_obrazów_w_plikach_README)   
 [Dalsze zagadnienia](https://github.com/extrazi/przyklad#Dalsze-zagadnienia) 
