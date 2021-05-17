@@ -37,7 +37,7 @@ Jeśli dodasz plik README do katalogu głównego repozytorium publicznego o taki
 
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/username-repo-with-readme.png)
 
-<a name="Automatyczne-wygenerowane spis treści do plików README"></a>
+<a name="Automatyczne-wygenerowane spis tresci do plikow README"></a>
 ### [Automatyczne-wygenerowane spis treści do plików README ]( https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes#auto-generated-table-of-contents-for-readme-files )
 
 W przypadku renderowanego widoku dowolnego pliku Markdown w repozytorium, w tym pliku README, GitHub automatycznie generuje spis treści na podstawie nagłówków sekcji. Możesz przeglądać spis treści dla pliku README, klikając ikonę :m  menu w lewym górnym rogu z renderowanej strony.
