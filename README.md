@@ -13,7 +13,7 @@ Aby uzyskać więcej informacji na temat dostarczania wytycznych dotyczących pr
 **Spis treści**
 
 [Automatycznie-wygenerowany spis treści do plików README ](https://github.com/extrazi/przyklad#Automatycznie-wygenerowany-spis-tresci-do-plikow-README)  
-[Łącza do sekcji w plikach README i stronach obiektów blob ](https://github.com/extrazi/przyklad#Linki_do_sekcji_w_plikach_README_i_stronach_BLOB )   
+[Łącza do sekcji w plikach README i stronach obiektów blob ](https://github.com/extrazi/przyklad#Linki-do-sekcji-w-plikach-README-i-stronach-BLOB )   
 [Względne łącza ścieżki do obrazów w plikach README ](https://github.com/extrazi/przyklad#Względne_łącza_i_ścieżki_obrazów_w_plikach_README)   
 [Dalsze zagadnienia](https://github.com/extrazi/przyklad#Dalsze-zagadnienia) 
 
@@ -38,7 +38,7 @@ Jeśli dodasz plik README do katalogu głównego repozytorium publicznego o taki
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/username-repo-with-readme.png)
 
 <a id="Automatycznie-wygenerowany-spis-tresci-do-plikow-README"></a>
-### [Automatyczne-wygenerowane spis treści do plików README ]( https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes#auto-generated-table-of-contents-for-readme-files )
+### [Automatycznie-wygenerowany spis treści do plików README ]( https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes#auto-generated-table-of-contents-for-readme-files )
 
 W przypadku renderowanego widoku dowolnego pliku Markdown w repozytorium, w tym pliku README, GitHub automatycznie generuje spis treści na podstawie nagłówków sekcji. Możesz przeglądać spis treści dla pliku README, klikając ikonę :m  menu w lewym górnym rogu z renderowanej strony.
 
@@ -55,6 +55,7 @@ Auto-generowany spis treści jest domyślnie włączony dla wszystkich plików M
 
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/readme-automatic-toc-setting.png)
 
+<a id="Linki do sekcji w plikach README i stronach BLOB"></a>
 ### [Linki do sekcji w plikach README i stronach BLOB ]( https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#section-links-in-readme-files-and-blob-pages )  
 
 Wiele projektów używa spisu treści na początku pliku README, aby skierować użytkowników do różnych sekcji pliku. Możesz utworzyć łącze bezpośrednio do sekcji w wyrenderowanym pliku, umieszczając wskaźnik myszy nad nagłówkiem sekcji, aby wyświetlić łącze:
