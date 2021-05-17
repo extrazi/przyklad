@@ -47,7 +47,7 @@ W przypadku renderowanego widoku dowolnego pliku Markdown w repozytorium, w tym 
 Auto-generowany spis treści jest domyślnie włączony dla wszystkich plików Markdown w repozytorium, ale możesz wyłączyć tę funkcję do repozytorium.
 
 1. Na GitHub przejdź do strony głównej.
-2. W ramach nazwy repozytorium kliknij :card_index: **Ustawienia**.
+2. W ramach nazwy repozytorium kliknij ☸️ **Ustawienia**.
 
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/repo-actions-settings.png)
 
