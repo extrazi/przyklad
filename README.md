@@ -62,6 +62,7 @@ Wiele projektów używa spisu treści na początku pliku README, aby skierować 
 
  ![ilustracja - ](https://docs.github.com/assets/images/help/repository/readme-links.png)
 
+<a id="Względne_łącza_i_ścieżki_obrazów_w_plikach_README"></a>
 ### [Względne łącza i ścieżki obrazów w plikach README ]( https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-readmes#relative-links-and-image-paths-in-readme-files )  
 
 Możesz zdefiniować linki względne i ścieżki obrazów w renderowanych plikach, aby ułatwić czytelnikom nawigację do innych plików w repozytorium. 
